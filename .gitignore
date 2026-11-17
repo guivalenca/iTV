@@ -1,0 +1,29 @@
+# Local source caches and build tools
+.cache/
+
+# Generated build outputs
+dist/
+build/
+**/bin/
+**/obj/
+**/node_modules/
+**/__pycache__/
+*.pyc
+.venv/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.key
+token.txt
+password.txt
+.DS_Store
+
+# Local agent tooling (third-party skills; not part of iTV)
+.agents/
+.claude/
+skills-lock.json
+.ruff_cache/

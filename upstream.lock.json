@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/helalaou/AeroTizen.git",
+  "commit": "8ec95131a9339df90d4dd0c2435e794ae192c19d",
+  "cli_tag": "cli-v3.0.1",
+  "cli_tag_commit": "10c42abd86870bacd532a43b5bb06e61bbdb3e64",
+  "cli_version": "3.0.1",
+  "launcher_version": "3.2.0"
+}
