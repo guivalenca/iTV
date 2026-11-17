@@ -132,8 +132,9 @@ The helpers use upstream's deterministic settings, but nobody has compared them 
 ## TV installation runbook
 
 The authorized TV proof was performed on 2026-11-16. Current hardware results and
-the final confirmation state are in [stock-proof.md](stock-proof.md). The sequence
-below remains the reference for a first installation.
+the final confirmation state are in [stock-proof.md](stock-proof.md). The full
+sequence we ran, including certificates, recovery and Home updates, is in
+[install.md](install.md); the summary below is kept for reference.
 
 Developer Mode must be enabled with the physical remote before these commands can
 work. Open **Apps** and enter `12345` with the remote's on-screen number pad. Some

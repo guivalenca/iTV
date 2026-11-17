@@ -79,13 +79,14 @@ connects to a TV.
 | `scripts/` | Build, recovery-backup and Home-status helpers |
 | `tests/` | Tests for those scripts |
 | `docs/design/` | The Home design spec and the implementation handoff log |
-| `docs/` | Build instructions, device proof, integration results and research notes |
+| `docs/` | Install guide, build instructions, device proof, integration results and research notes |
 
 ## Building and installing
 
-Follow [docs/build.md](docs/build.md). Installing needs Developer Mode on the TV, the
-AeroTizen CLI built here and the Samsung signing profile. The device order, backup and
-restore steps are documented there and in [docs/stock-proof.md](docs/stock-proof.md).
+**[docs/install.md](docs/install.md)** is the step-by-step sequence we actually ran:
+preparing the TV, building, backing up Samsung's home, creating certificates, applying
+Native Home, updating the Home in place, the recovery ZIP and going back to Samsung's
+home. [docs/build.md](docs/build.md) explains what the build does and checks.
 
 ## Keeping the TV working
 
