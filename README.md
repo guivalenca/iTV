@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/brand/itv-icon.svg" width="128" alt="iTV logo"></p>
+
 # iTV
 
 A tvOS-style Home for a Samsung U8600F (2025, Tizen 9), built on
